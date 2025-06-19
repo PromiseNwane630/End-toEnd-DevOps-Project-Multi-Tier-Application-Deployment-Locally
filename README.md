@@ -1,0 +1,2 @@
+# End-toEnd-DevOps-Project-Multi-Tier-Application-Deployment-Locally
+Deploy scalable, available, secure web app with infrastructure provisioning. DevOps project orchestrates MySQL, Memcache, RabbitMQ, Tomcat, and Nginx services. Uses VirtualBox and Vagrant for automated VM provisioning for scalability and security. Accessible via automated deployment with hostname resolution and inter-service communication.
